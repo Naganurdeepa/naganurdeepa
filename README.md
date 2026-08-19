@@ -112,7 +112,7 @@ A Bluetooth-based wheelchair designed to provide convenient and independent mobi
 `Arduino Uno` `HC-05` `L298N`  
 `DC Motors` `Embedded C`
 
-🔗 **[View Project →](YOUR_WHEELCHAIR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/Naganurdeepa/app-controlled-wheelchair)**
 
 </td>
 
