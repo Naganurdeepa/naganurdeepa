@@ -127,7 +127,7 @@ A security-oriented embedded system designed for controlled access using passwor
 `Embedded Systems`  
 `Digital Electronics`
 
-🔗 **[View Project →](YOUR_GATE_LOCK_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/Naganurdeepa/password-gatelock-system)**
 
 </td>
 </tr>
