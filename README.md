@@ -144,7 +144,7 @@ A project focused on analyzing medical reports and presenting useful information
 `Automation`  
 `Software Development`
 
-🔗 **[View Project →](YOUR_MEDICAL_REPORT_REPOSITORY_LINK)**
+🔗 **[View Project →](https://lovable.dev/projects/7ac9b576-94fd-4559-91cc-5586381c9287?magic_link=mc_d8629c85-4cf0-4110-80d7-9d18e1e331b9)**
 
 </td>
 
