@@ -118,7 +118,7 @@ A Bluetooth-based wheelchair designed to provide convenient and independent mobi
 
 <td width="50%">
 
-### 🔐 Password-Based Gate Lock
+### 🔐 Password-Based Gate Lock System
 
 A security-oriented embedded system designed for controlled access using password authentication.
 
