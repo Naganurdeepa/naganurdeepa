@@ -101,7 +101,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ♿ App-Controlled Wheelchair
 
@@ -109,14 +109,12 @@ A Bluetooth-based wheelchair designed to provide convenient and independent mobi
 
 **Tech Stack**
 
-`Arduino Uno` `HC-05` `L298N`  
-`DC Motors` `Embedded C`
+`Arduino Uno` `HC-05` `L298N` `DC Motors` `Embedded C`
 
 🔗 **[View Project →](https://github.com/Naganurdeepa/app-controlled-wheelchair)**
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Password-Based Gate Lock System
 
@@ -124,16 +122,15 @@ A security-oriented embedded system designed for controlled access using passwor
 
 **Focus**
 
-`Embedded Systems`  
-`Digital Electronics`
+`Embedded Systems` `Digital Electronics`
 
-🔗 **[View Project →](https://github.com/Naganurdeepa/password-gatelock-system)**
+🔗 **[View Project →](https://github.com/Naganurdeepa/password-gate-lock-system)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 IoT Radar Surveillance & Target Tracking
 
@@ -146,17 +143,16 @@ ESP32-based surveillance prototype featuring object detection, servo tracking, c
 🔗 **[View Project →](YOUR_GITHUB_REPOSITORY_LINK)**
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
-
-
-
-
-
->
+</table>
 
 ---
 
-# 📜 Certifications & Learning
+# 📁 Certifications & Learning
+
 
 🏅 **Oracle Cloud Infrastructure – AI Foundations**
 
