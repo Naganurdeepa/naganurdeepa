@@ -146,16 +146,27 @@ A project focused on analyzing medical reports and presenting useful information
 
 🔗 **[View Project →](https://lovable.dev/projects/7ac9b576-94fd-4559-91cc-5586381c9287?magic_link=mc_d8629c85-4cf0-4110-80d7-9d18e1e331b9)**
 
-</td>
-
+<tr>
 <td width="50%">
 
-### 💡 More Projects Coming Soon...
+### 📡 AI-Enabled IoT Radar Surveillance and Target Tracking System
 
-Currently working on new projects involving:
+An ESP32-based autonomous surveillance prototype designed for object detection, directional tracking, visual monitoring and IoT-based cloud monitoring.
 
-`VLSI` `Embedded Systems` `C++`  
-`IoT` `Digital Electronics`
+**Focus**
+
+`Embedded Systems`
+
+`IoT`
+
+`Digital Electronics`
+
+`Hardware Interfacing`
+
+🔗 **[View Project →](YOUR_GITHUB_REPOSITORY_LINK)**
+
+</td>
+</tr>
 
 </td>
 </tr>
