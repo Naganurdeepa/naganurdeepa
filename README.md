@@ -135,20 +135,6 @@ A security-oriented embedded system designed for controlled access using passwor
 <tr>
 <td width="50%">
 
-### 🏥 Automated Medical Report Analyzer
-
-A project focused on analyzing medical reports and presenting useful information to users.
-
-**Focus**
-
-`Automation`  
-`Software Development`
-
-🔗 **[View Project →](https://lovable.dev/projects/7ac9b576-94fd-4559-91cc-5586381c9287?magic_link=mc_d8629c85-4cf0-4110-80d7-9d18e1e331b9)**
-
-<tr>
-<td width="50%">
-
 ### 📡 AI-Enabled IoT Radar Surveillance and Target Tracking System
 
 An ESP32-based autonomous surveillance prototype designed for object detection, directional tracking, visual monitoring and IoT-based cloud monitoring.
