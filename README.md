@@ -168,8 +168,7 @@ An ESP32-based autonomous surveillance prototype designed for object detection, 
 </td>
 </tr>
 
-</td>
-</tr>
+
 </table>
 
 ---
