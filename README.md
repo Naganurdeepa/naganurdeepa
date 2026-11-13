@@ -135,24 +135,21 @@ A security-oriented embedded system designed for controlled access using passwor
 <tr>
 <td width="50%">
 
-### 📡 AI-Enabled IoT Radar Surveillance and Target Tracking System
+### 📡 IoT Radar Surveillance & Target Tracking
 
-An ESP32-based autonomous surveillance prototype designed for object detection, directional tracking, visual monitoring and IoT-based cloud monitoring.
+ESP32-based surveillance prototype featuring object detection, servo tracking, camera monitoring and cloud connectivity.
 
 **Focus**
 
-`Embedded Systems`
-
-`IoT`
-
-`Digital Electronics`
-
-`Hardware Interfacing`
+`Embedded Systems` `IoT` `Digital Electronics`
 
 🔗 **[View Project →](YOUR_GITHUB_REPOSITORY_LINK)**
 
 </td>
 </tr>
+
+
+
 
 
 >
